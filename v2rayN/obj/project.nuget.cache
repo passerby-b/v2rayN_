@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mNXeRyceV9EgrKd3HLPJ7+3Crwat5oCpDlsAFJUs3Z5kLni9oSe0IF04UK7krqPOPHuySZZRu6za1AbKiSe+RQ==",
+  "dgSpecHash": "JwnZTZL2KwIS0FNSC1xPDvE/ooztQ4ZwR7bqzvvk9bJZXeehWq13VIAX+L9w0PUpzxsJJM8CLZ2RKwM68afC5Q==",
   "success": true,
-  "projectFilePath": "F:\\v2rayN-4.20\\v2rayN\\v2rayN\\v2rayN.csproj",
+  "projectFilePath": "F:\\v2rayN\\v2rayN-4.20_Code\\v2rayN\\v2rayN\\v2rayN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\grpc.core\\2.27.0\\grpc.core.2.27.0.nupkg.sha512",

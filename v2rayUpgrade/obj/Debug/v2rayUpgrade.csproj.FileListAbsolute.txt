@@ -7,3 +7,12 @@ F:\v2rayN-4.20\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.GenerateResourc
 F:\v2rayN-4.20\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.CoreCompileInputs.cache
 F:\v2rayN-4.20\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.exe
 F:\v2rayN-4.20\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.pdb
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\bin\Debug\v2rayUpgrade.exe.config
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\bin\Debug\v2rayUpgrade.exe
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\bin\Debug\v2rayUpgrade.pdb
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.MainForm.resources
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.Properties.Resources.resources
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.GenerateResource.cache
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.CoreCompileInputs.cache
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.exe
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.pdb

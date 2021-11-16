@@ -40,9 +40,27 @@ namespace v2rayN.Handler
                     color = (new Color[] { Color.Red, Color.Purple, Color.DarkGreen, Color.Orange, Color.DarkSlateBlue, Color.RoyalBlue })[index - 1];
                     //color = ColorTranslator.FromHtml(new string[] { "#CC0066", "#CC6600", "#99CC99", "#666699" }[index - 1]);
                 }
-                if ((config.routings[config.routingIndex].remarks.IndexOf("全局") > -1 || config.routings[config.routingIndex].remarks.IndexOf("代理") > -1) && config.sysProxyType.ToString() == "ForcedChange")
+
+                //代理
+                if (config.sysProxyType.ToString() == "ForcedChange")
                 {
-                    color = ColorTranslator.FromHtml("#EA7500");
+                    if (config.routings[config.routingIndex].remarks.IndexOf("全局") > -1)
+                    {
+                        color = ColorTranslator.FromHtml("#EA0000");//红色
+                    }
+                    if (config.routings[config.routingIndex].remarks.IndexOf("分流") > -1)
+                    {
+                        color = ColorTranslator.FromHtml("#EA7500");//橙色
+                    }
+                    if (config.routings[config.routingIndex].remarks.IndexOf("绕过") > -1)
+                    {
+                        color = ColorTranslator.FromHtml("#46A3FF");//蓝色
+                    }
+                }
+                else
+                {
+                    //清除代理或不改变系统代理
+                    color = ColorTranslator.FromHtml("#BEBEBE");//灰色
                 }
 
                 int width = 128;
@@ -240,7 +258,7 @@ namespace v2rayN.Handler
             }
 
         }
-        
+
         public void BackupGuiNConfig(Config config)
         {
             SaveFileDialog fileDialog = new SaveFileDialog

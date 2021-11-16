@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\v2rayN-4.20\\v2rayN\\v2rayN\\v2rayN.csproj": {}
+    "F:\\v2rayN\\v2rayN-4.20_Code\\v2rayN\\v2rayN\\v2rayN.csproj": {}
   },
   "projects": {
-    "F:\\v2rayN-4.20\\v2rayN\\v2rayN\\v2rayN.csproj": {
+    "F:\\v2rayN\\v2rayN-4.20_Code\\v2rayN\\v2rayN\\v2rayN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\v2rayN-4.20\\v2rayN\\v2rayN\\v2rayN.csproj",
+        "projectUniqueName": "F:\\v2rayN\\v2rayN-4.20_Code\\v2rayN\\v2rayN\\v2rayN.csproj",
         "projectName": "v2rayN",
-        "projectPath": "F:\\v2rayN-4.20\\v2rayN\\v2rayN\\v2rayN.csproj",
+        "projectPath": "F:\\v2rayN\\v2rayN-4.20_Code\\v2rayN\\v2rayN\\v2rayN.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\v2rayN-4.20\\v2rayN\\v2rayN\\obj\\",
+        "outputPath": "F:\\v2rayN\\v2rayN-4.20_Code\\v2rayN\\v2rayN\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
