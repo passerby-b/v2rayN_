@@ -50,7 +50,7 @@ namespace v2rayN.Handler
                     }
                     if (config.routings[config.routingIndex].remarks.IndexOf("分流") > -1)
                     {
-                        color = ColorTranslator.FromHtml("#EA7500");//橙色
+                        color = ColorTranslator.FromHtml("#EA7500");//棕色
                     }
                     if (config.routings[config.routingIndex].remarks.IndexOf("绕过") > -1)
                     {
