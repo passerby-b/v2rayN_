@@ -16,3 +16,4 @@ F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.Gen
 F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.CoreCompileInputs.cache
 F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.exe
 F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.pdb
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayUpgrade\obj\Debug\v2rayUpgrade.csproj.AssemblyReference.cache

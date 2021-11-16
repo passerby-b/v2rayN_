@@ -134,3 +134,4 @@ F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayN\obj\Debug\zh-Hans\v2rayN.resources.dll
 F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayN\obj\Debug\v2rayN.csproj.CopyComplete
 F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayN\obj\Debug\v2rayN.exe
 F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayN\obj\Debug\v2rayN.pdb
+F:\v2rayN\v2rayN-4.20_Code\v2rayN\v2rayN\obj\Debug\v2rayN.csproj.AssemblyReference.cache
